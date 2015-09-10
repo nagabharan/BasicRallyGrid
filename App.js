@@ -18,7 +18,7 @@ Ext.define('CustomApp', {
 		        },
 		        scope: this
 		    },
-		    fetch: ['Name', 'ScheduleState']
+		    fetch: ['FormattedID', 'Name', 'ScheduleState']
 		});
     },
 
